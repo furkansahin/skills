@@ -9,6 +9,10 @@ machine instead of rebuilt.
   code-quality standard, distilled from Jeremy Evans' PR review comments.
 - `furkan-commit-voice/` — Furkan's personal commit-message voice for
   ubicloud, on top of `COMMIT_MESSAGES.md`'s mechanical rules.
+  `furkan-commit-voice/COMMIT_MESSAGES.md` is a copy of ubicloud's mechanical
+  commit-message guide (from `ubicloud/ubicloud`, an open-source repo) kept
+  here so the skill is self-contained on a machine without an `ubicloud`
+  checkout.
 - `furkan-review-voice/` — Furkan's personal PR-review voice (inline
   comments, review verdicts, discussion replies) for ubicloud.
 
